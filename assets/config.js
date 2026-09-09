@@ -1,5 +1,5 @@
 // После создания счётчика замените 0 его числовым номером.
-window.METRIKA_ID = 0;
+window.METRIKA_ID = 112425733;
 if (Number.isSafeInteger(window.METRIKA_ID) && window.METRIKA_ID > 0) {
   window.ym = window.ym || function () { (window.ym.a = window.ym.a || []).push(arguments); };
   window.ym.l = Date.now();
